@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://renzague.github.io/sitemap.html.gz
+Sitemap: https://renzague.github.io/app/sitemap.html.gz
+Sitemap: https://renzague.github.io/assets/sitemap.html.gz
+Sitemap: https://renzague.github.io/css/sitemap.html.gz
+Sitemap: https://renzague.github.io/data/sitemap.html.gz
+Sitemap: https://renzague.github.io/includes/sitemap.html.gz
+Sitemap: https://renzague.github.io/item/sitemap.html.gz
+Sitemap: https://renzague.github.io/src/sitemap.html.gz
